@@ -18,7 +18,6 @@ export const Banner = () => {
     autoplay: true,
     slidesToScroll: 1,
     slidesToShow: 1,
-    slidesToScroll: 1,
     arrows: false,
     beforeChange: (prev, next) => {
       setDoActive(next);
