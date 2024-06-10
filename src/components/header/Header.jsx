@@ -9,7 +9,7 @@ export const Header = () => {
 
   const [showAll, setShowAll] = React.useState(false)
   const allItems = [
-    { _id: "100", title: "All Department" },
+    { _id: "100", title: "All Departments" },
     { _id: "101", title: "Books" },
     { _id: "102", title: "Mens Fashion" },
     { _id: "103", title: "Womens Fashion" },
