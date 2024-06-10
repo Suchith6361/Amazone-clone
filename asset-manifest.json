@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Amazone-clone/static/css/main.1155a871.css",
+    "main.js": "/Amazone-clone/static/js/main.f9c33296.js",
+    "static/js/453.04a81e8c.chunk.js": "/Amazone-clone/static/js/453.04a81e8c.chunk.js",
+    "static/media/bannerImgTwo.jpg": "/Amazone-clone/static/media/bannerImgTwo.bc1bdb910ead16c65197.jpg",
+    "static/media/bannerImgFour.jpg": "/Amazone-clone/static/media/bannerImgFour.8f7fc6b56e74dba2b6f9.jpg",
+    "static/media/bannerImgOne.jpg": "/Amazone-clone/static/media/bannerImgOne.efb3d39101f7ef77d616.jpg",
+    "static/media/bannerImgThree.jpg": "/Amazone-clone/static/media/bannerImgThree.c80809bb40bee5c34372.jpg",
+    "static/media/bannerImgFive.jpg": "/Amazone-clone/static/media/bannerImgFive.aa945e25375bfdee385f.jpg",
+    "static/media/advertizement.jpg": "/Amazone-clone/static/media/advertizement.650b3a7053bf38420159.jpg",
+    "static/media/logo.png": "/Amazone-clone/static/media/logo.1c9be0b254d3ff1dc9e9.png",
+    "static/media/emptyCart.png": "/Amazone-clone/static/media/emptyCart.230e4848b62fb3cab325.png",
+    "static/media/bdFlag (1).webp": "/Amazone-clone/static/media/bdFlag (1).19765596ff60685bb199.webp",
+    "index.html": "/Amazone-clone/index.html",
+    "main.1155a871.css.map": "/Amazone-clone/static/css/main.1155a871.css.map",
+    "main.f9c33296.js.map": "/Amazone-clone/static/js/main.f9c33296.js.map",
+    "453.04a81e8c.chunk.js.map": "/Amazone-clone/static/js/453.04a81e8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1155a871.css",
+    "static/js/main.f9c33296.js"
+  ]
+}
