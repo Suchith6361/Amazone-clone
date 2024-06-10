@@ -9,11 +9,9 @@ import {
 
 } from "react-router-dom";
 import { Header } from './components/header/Header';
-import { Banner } from './Home/Banner';
 import { Footer } from './components/footer/Footer';
 import { Home } from './pages/Home.jsx'
 import About from './pages/About'
-import { progress } from 'framer-motion';
 import { ProductsData } from './api/api.jsx';
 
 
